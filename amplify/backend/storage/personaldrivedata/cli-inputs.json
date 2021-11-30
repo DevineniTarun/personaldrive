@@ -1,0 +1,14 @@
+{
+  "resourceName": "personaldrivedata",
+  "policyUUID": "23058274",
+  "bucketName": "personaldrivestorage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
